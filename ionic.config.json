@@ -1,0 +1,7 @@
+{
+  "name": "datepickers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
